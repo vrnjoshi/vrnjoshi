@@ -9,7 +9,10 @@ I am into product testing.
 
 ## Now
 <!-- START_CURRENT -->
-I am working on: _edit CURRENT.md to update this text_
+Working on:
+- Oauth 2/OIDC testing at work
+- Developing a Christmas Winter Card for my friends
+
 <!-- END_CURRENT -->
 
 ## Projects & Highlights
