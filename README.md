@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi — I’m Varun Joshi (vrnjoshi) 👋
 
-<!--
-**vrnjoshi/vrnjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A short one-line tagline about me.
 
-Here are some ideas to get you started:
+## About me
+- Full name: Varun Joshi
+- Role: Software engineer
+- Location: (your city, country)
+- Tech: JavaScript, TypeScript, Python, Go, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Now
+<!-- START_CURRENT -->
+I am working on: _edit CURRENT.md to update this text_
+<!-- END_CURRENT -->
+
+## Projects & Highlights
+- 🔭 Work: [example-repo](https://github.com/vrnjoshi/example-repo)
+- 🌱 Learning: Something new
+- 📫 Contact: (your-email@example.com)
+
+<!-- You can add badges, GIFs, stats, etc. here -->
