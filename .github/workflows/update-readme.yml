@@ -1,5 +1,8 @@
 name: Update README "Now" section
 
+permissions:
+  contents: write
+
 on:
   push:
     paths:
@@ -15,7 +18,7 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Replace Now section with CURRENT.md
+      - name: Replace Now section with CURRENT.md (with debug)
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -27,21 +30,30 @@ jobs:
               sys.exit(0)
           r = readme_path.read_text(encoding='utf-8')
           c = current_path.read_text(encoding='utf-8')
+          print("---- README (excerpt) ----")
+          print(r[:1000])
+          print("---- CURRENT.md ----")
+          print(c)
           start = '<!-- START_CURRENT -->'
           end = '<!-- END_CURRENT -->'
           pattern = re.compile(re.escape(start) + r'[\s\S]*?' + re.escape(end))
           replacement = f"{start}\n{c}\n{end}"
           new = pattern.sub(replacement, r)
           if new == r:
-              print("No changes to README.md")
+              print("No changes to README.md (replacement did not alter file)")
               sys.exit(0)
           readme_path.write_text(new, encoding='utf-8')
+          print("Wrote new README excerpt:")
+          print(new[new.find(start): new.find(end)+len(end)])
+          # configure git and push
           subprocess.run(['git', 'config', 'user.name', 'github-actions[bot]'])
           subprocess.run(['git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com'])
           subprocess.run(['git', 'add', 'README.md'])
-          subprocess.run(['git', 'commit', '-m', 'Update Now section from CURRENT.md'], check=False)
-          subprocess.run(['git', 'push'])
+          proc = subprocess.run(['git', 'commit', '-m', 'Update Now section from CURRENT.md'], capture_output=True, text=True)
+          print("git commit output:", proc.stdout, proc.stderr)
+          proc2 = subprocess.run(['git', 'push'], capture_output=True, text=True)
+          print("git push output:", proc2.stdout, proc2.stderr)
           PY
 
       - name: Done
-        run: echo "README updated (if there were changes)."
+        run: echo "README update step finished (check logs for details)."
