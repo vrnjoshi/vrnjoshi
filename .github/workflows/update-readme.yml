@@ -1,0 +1,47 @@
+name: Update README "Now" section
+
+on:
+  push:
+    paths:
+      - 'CURRENT.md'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Replace Now section with CURRENT.md
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re, os, sys, subprocess
+          readme_path = Path('README.md')
+          current_path = Path('CURRENT.md')
+          if not readme_path.exists() or not current_path.exists():
+              print("README.md or CURRENT.md missing")
+              sys.exit(0)
+          r = readme_path.read_text(encoding='utf-8')
+          c = current_path.read_text(encoding='utf-8')
+          start = '<!-- START_CURRENT -->'
+          end = '<!-- END_CURRENT -->'
+          pattern = re.compile(re.escape(start) + r'[\s\S]*?' + re.escape(end))
+          replacement = f"{start}\n{c}\n{end}"
+          new = pattern.sub(replacement, r)
+          if new == r:
+              print("No changes to README.md")
+              sys.exit(0)
+          readme_path.write_text(new, encoding='utf-8')
+          subprocess.run(['git', 'config', 'user.name', 'github-actions[bot]'])
+          subprocess.run(['git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com'])
+          subprocess.run(['git', 'add', 'README.md'])
+          subprocess.run(['git', 'commit', '-m', 'Update Now section from CURRENT.md'], check=False)
+          subprocess.run(['git', 'push'])
+          PY
+
+      - name: Done
+        run: echo "README updated (if there were changes)."
