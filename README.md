@@ -1,12 +1,11 @@
 # Hi — I’m Varun Joshi (vrnjoshi) 👋
 
-A short one-line tagline about me.
+I am into product testing. 
 
 ## About me
 - Full name: Varun Joshi
-- Role: Software engineer
-- Location: (your city, country)
-- Tech: JavaScript, TypeScript, Python, Go, React
+- Role: Sr. Quality engineer
+- Tech: Java, Python, C#, Observability Testing Tools
 
 ## Now
 <!-- START_CURRENT -->
@@ -14,8 +13,8 @@ I am working on: _edit CURRENT.md to update this text_
 <!-- END_CURRENT -->
 
 ## Projects & Highlights
-- 🔭 Work: [example-repo](https://github.com/vrnjoshi/example-repo)
-- 🌱 Learning: Something new
-- 📫 Contact: (your-email@example.com)
+- 🔭 Work: [FlaskWebApp](https://github.com/vrnjoshi/FlaskWebAppExample)
+- 🌱 Learning: All about AI/ML these days
+- 📫 Contact: https://linkedin.com/in/va3unjoshi
 
 <!-- You can add badges, GIFs, stats, etc. here -->
