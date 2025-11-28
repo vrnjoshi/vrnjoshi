@@ -11,7 +11,7 @@ I am into product testing.
 <!-- START_CURRENT -->
 Working on:
 - Oauth 2/OIDC testing at work
-- Developing a Christmas Winter Card for my friends
+- Teaching my friend vibe coding essentials by developing a Christmas Winter Card web page for them 😊
 
 <!-- END_CURRENT -->
 
