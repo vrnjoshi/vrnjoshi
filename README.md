@@ -10,8 +10,9 @@ I am into product testing.
 ## Now
 <!-- START_CURRENT -->
 Working on:
-- Oauth 2/OIDC testing at work
-- Teaching my friend vibe coding essentials by developing a Christmas Winter Card web page for them 😊
+- Keycloak testing
+- Envoy Gateway
+- LLM/Gen AIs
 
 <!-- END_CURRENT -->
 
