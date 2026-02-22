@@ -10,9 +10,7 @@ I am into product testing.
 ## Now
 <!-- START_CURRENT -->
 Working on:
-- Keycloak testing
-- Envoy Gateway
-- LLM/Gen AIs
+- GreenSentry Hackathon Project
 
 <!-- END_CURRENT -->
 
