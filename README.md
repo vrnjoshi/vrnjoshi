@@ -1,10 +1,9 @@
-# Hi — I’m Varun Joshi (vrnjoshi) 👋
+# Hi 👋
 
-I am into product testing. 
+I am into product testing and learning 
 
 ## About me
-- Full name: Varun Joshi
-- Role: Sr. Quality engineer
+- Current Official Role: Sr. Quality engineer
 - Tech: Java, Python, C#, Observability Testing Tools
 
 ## Now
