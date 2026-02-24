@@ -15,7 +15,7 @@ Working on:
 <!-- END_CURRENT -->
 
 ## Projects & Highlights
-- 🔭 Work: [FlaskWebApp](https://github.com/vrnjoshi/FlaskWebAppExample)
+- 🔭 Work: [GreenSentry](https://github.com/vrnjoshi/GreenSentry/)
 - 🌱 Learning: All about AI/ML these days
 - 📫 Contact: https://linkedin.com/in/va3unjoshi
 
