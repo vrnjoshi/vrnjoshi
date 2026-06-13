@@ -1,74 +1,176 @@
 # Hi 👋 I'm Varun Joshi
 
+<div align="center">
+  
+  [![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Quality+Engineer;AI+Tool+Explorer;Continuous+Learner;Building+Robust+Systems)](https://github.com/vrnjoshi)
+
+</div>
+
 A Quality Engineer passionate about **product testing**, **observability**, and **continuous learning**. I'm fascinated by building robust systems and leveraging AI to solve real-world problems.
 
 ---
 
 ## 🎯 About Me
 
+<table>
+<tr>
+<td width="50%">
+
+```python
+{
+  "name": "Varun Joshi",
+  "role": "Sr. Quality Engineer",
+  "focus": [
+    "Quality Engineering",
+    "Security Testing",
+    "AI Tools & Automation"
+  ],
+  "learning": "OAuth 2/OIDC & AI-Powered Testing"
+}
 ```
-📍 Role:           Sr. Quality Engineer
-🛠️  Tech Stack:     Java, Python, C#, Observability Testing Tools
-💡 Focus Areas:    Quality Engineering, Security Testing, AI Tools & Automation
-🎓 Currently:      Advancing expertise in OAuth 2/OIDC & AI-Powered Testing
-```
+
+</td>
+<td width="50%">
+
+**🛠️ Tech Stack**
+- Java, Python, C#
+- Observability Tools
+- Testing Frameworks
+- AI/ML Tools
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 What I'm Working On
 
-- **OAuth 2/OIDC Testing** at work – deep diving into modern authentication protocols
-- **GreenSentry Hackathon Project** – building sustainable tech solutions
-- **AI Integration** – exploring and leveraging AI tools daily in work and personal projects
-
----
-
-## 📚 Featured Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🔭 **[GreenSentry](https://github.com/vrnjoshi/GreenSentry/)** | Sustainability & IoT focused project | Active |
-| 🧪 **Quality Testing** | Expertise in automation & observability | Ongoing |
-| 🤖 **AI Tools Exploration** | Daily use of AI for automation & problem-solving | In Progress |
-
----
-
-## 📖 Latest Articles & Content
-
-I share insights about quality engineering, testing, and tech topics on **[Medium](https://medium.com/@jsh.vrn)**.
-
-> Check out my articles on testing, quality engineering, and tech best practices!
-
-**[→ Read my latest articles on Medium](https://medium.com/@jsh.vrn)**
-
----
-
-## 🔗 Connect With Me
-
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 🔗 **LinkedIn** | [va3unjoshi](https://linkedin.com/in/va3unjoshi) |
-| ✍️ **Medium** | [@jsh.vrn](https://medium.com/@jsh.vrn) |
-| 💻 **GitHub** | [@vrnjoshi](https://github.com/vrnjoshi) |
+| Current Project | Focus Area | Status |
+|---|---|---|
+| 🔐 **OAuth 2/OIDC** | Authentication Protocols | 🔴 Active |
+| ♻️ **GreenSentry** | Sustainability & IoT | 🔴 Active |
+| 🤖 **AI Integration** | Daily Automation & Tools | 🔴 Active |
 
 </div>
 
 ---
 
-## 📊 Quick Stats
+## 📚 Featured Projects
 
-- 🌱 Continuously learning and experimenting with new tools
-- 🎯 Focused on quality & reliability
-- 🚀 Passionate about automation & AI-powered tooling
-- 🤖 Daily AI user for work & personal projects
-- 💬 Open to discussions on testing, QA, and tech best practices
+```
+┌─ GreenSentry (🔭 Work)
+│  ├─ Sustainability focused
+│  ├─ IoT integration
+│  └─ Status: Active & Growing
+│
+├─ Quality Testing (🧪 Expertise)
+│  ├─ Automation & Testing
+│  ├─ Observability focus
+│  └─ Status: Ongoing Excellence
+│
+└─ AI Tools Exploration (🤖 Daily)
+   ├─ Practical AI usage
+   ├─ Work & Personal projects
+   └─ Status: In Progress
+```
+
+**📊 Skill Distribution**
+
+```
+Quality Engineering    ████████████████████ 95%
+Testing Automation     ██████████████████░░ 85%
+Python & Java          ██████████████░░░░░░ 75%
+AI Tools & ChatGPT     ██████████████░░░░░░ 75%
+Cloud & Observability  ████████████░░░░░░░░ 65%
+Security Testing       ██████████░░░░░░░░░░ 55%
+```
+
+---
+
+## 📖 Articles & Content
+
+<div align="center">
+
+### ✍️ Sharing Knowledge on Medium
+
+> I write about quality engineering, testing best practices, and leveraging AI tools in your workflow.
+
+[![Medium](https://img.shields.io/badge/Medium-@jsh.vrn-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jsh.vrn)
+
+**[→ Read my latest articles on Medium](https://medium.com/@jsh.vrn)**
+
+</div>
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-va3unjoshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/va3unjoshi)
+[![Medium](https://img.shields.io/badge/Medium-@jsh.vrn-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jsh.vrn)
+[![GitHub](https://img.shields.io/badge/GitHub-vrnjoshi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vrnjoshi)
+
+</div>
+
+---
+
+## 🌟 Quick Stats
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 🎯 **Focus** | Quality & Reliability |
+| 🚀 **Passion** | Automation & AI Tools |
+| 🤖 **Daily Usage** | AI for Work & Personal |
+| 💬 **Open To** | Testing, QA & Tech Discussions |
+| 📈 **Always** | Learning & Experimenting |
+
+</div>
+
+---
+
+## 💡 What I Believe In
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔄 Continuous Integration
+Quality is a journey, not a destination. Iterate, test, improve.
+
+</td>
+<td align="center" width="33%">
+
+### 🤝 Collaboration
+Best solutions come from diverse perspectives and teamwork.
+
+</td>
+<td align="center" width="33%">
+
+### 🧠 Innovation
+Leverage AI and automation to solve problems smarter, not harder.
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-**Feel free to reach out!** I'm always happy to discuss testing strategies, quality engineering, AI tools, or tech in general. 🚀
+### 🤝 Let's Collaborate!
+
+I'm always open to discussions about testing strategies, quality engineering, AI tools, and innovative tech solutions.
+
+**[Connect on LinkedIn](https://linkedin.com/in/va3unjoshi)** • **[Read Articles](https://medium.com/@jsh.vrn)** • **[Follow on GitHub](https://github.com/vrnjoshi)**
+
+---
+
+<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" alt="Made with love">
 
 </div>
