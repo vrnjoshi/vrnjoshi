@@ -44,20 +44,6 @@ A Quality Engineer passionate about **product testing**, **observability**, and 
 
 ---
 
-## 💼 What I'm Working On
-
-<div align="center">
-
-| Current Project | Focus Area | Status |
-|---|---|---|
-| 🔐 **OAuth 2/OIDC** | Authentication Protocols | 🔴 Active |
-| ♻️ **GreenSentry** | Sustainability & IoT | 🔴 Active |
-| 🤖 **AI Integration** | Daily Automation & Tools | 🔴 Active |
-
-</div>
-
----
-
 ## 📚 Featured Projects
 
 ```
