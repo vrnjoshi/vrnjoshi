@@ -1,6 +1,6 @@
 # Hi 👋 I'm Varun Joshi
 
-A Quality Engineer passionate about **product testing**, **observability**, and **continuous learning**. I'm fascinated by building robust systems and exploring AI/ML technologies.
+A Quality Engineer passionate about **product testing**, **observability**, and **continuous learning**. I'm fascinated by building robust systems and leveraging AI to solve real-world problems.
 
 ---
 
@@ -9,8 +9,8 @@ A Quality Engineer passionate about **product testing**, **observability**, and 
 ```
 📍 Role:           Sr. Quality Engineer
 🛠️  Tech Stack:     Java, Python, C#, Observability Testing Tools
-💡 Focus Areas:    Quality Engineering, Security Testing, AI/ML Learning
-🎓 Currently:      Advancing expertise in OAuth 2/OIDC & Cloud Infrastructure
+💡 Focus Areas:    Quality Engineering, Security Testing, AI Tools & Automation
+🎓 Currently:      Advancing expertise in OAuth 2/OIDC & AI-Powered Testing
 ```
 
 ---
@@ -19,7 +19,7 @@ A Quality Engineer passionate about **product testing**, **observability**, and 
 
 - **OAuth 2/OIDC Testing** at work – deep diving into modern authentication protocols
 - **GreenSentry Hackathon Project** – building sustainable tech solutions
-- **AI/ML Exploration** – learning cutting-edge machine learning concepts
+- **AI Integration** – exploring and leveraging AI tools daily in work and personal projects
 
 ---
 
@@ -29,13 +29,13 @@ A Quality Engineer passionate about **product testing**, **observability**, and 
 |---------|-------------|--------|
 | 🔭 **[GreenSentry](https://github.com/vrnjoshi/GreenSentry/)** | Sustainability & IoT focused project | Active |
 | 🧪 **Quality Testing** | Expertise in automation & observability | Ongoing |
-| 🎓 **Learning Journey** | AI/ML & Advanced Testing Techniques | In Progress |
+| 🤖 **AI Tools Exploration** | Daily use of AI for automation & problem-solving | In Progress |
 
 ---
 
 ## 📖 Latest Articles & Content
 
-I share insights about quality engineering and tech topics on **[Medium](https://medium.com/@jsh.vrn)**.
+I share insights about quality engineering, testing, and tech topics on **[Medium](https://medium.com/@jsh.vrn)**.
 
 > Check out my articles on testing, quality engineering, and tech best practices!
 
@@ -59,15 +59,16 @@ I share insights about quality engineering and tech topics on **[Medium](https:/
 
 ## 📊 Quick Stats
 
-- 🌱 Always learning and experimenting
+- 🌱 Continuously learning and experimenting with new tools
 - 🎯 Focused on quality & reliability
-- 🚀 Passionate about automation & tooling
-- 💬 Open to discussions on testing & QA best practices
+- 🚀 Passionate about automation & AI-powered tooling
+- 🤖 Daily AI user for work & personal projects
+- 💬 Open to discussions on testing, QA, and tech best practices
 
 ---
 
 <div align="center">
 
-**Feel free to reach out!** I'm always happy to discuss testing strategies, quality engineering, or tech in general. 🚀
+**Feel free to reach out!** I'm always happy to discuss testing strategies, quality engineering, AI tools, or tech in general. 🚀
 
 </div>
