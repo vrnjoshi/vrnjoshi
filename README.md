@@ -80,13 +80,13 @@ Security Testing       ██████████░░░░░░░░░
 
 <div align="center">
 
-### ✍️ Sharing Knowledge on Medium
+### ✍️ Random Blabbering on Medium
 
-> I write about quality engineering, testing best practices, and leveraging AI tools in your workflow.
+> I occasionally blabber my thoughts out on Medium when the mood strikes. Currently 2 articles in, but who knows where this goes? 😄
 
 [![Medium](https://img.shields.io/badge/Medium-@jsh.vrn-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jsh.vrn)
 
-**[→ Read my latest articles on Medium](https://medium.com/@jsh.vrn)**
+**[→ Check out my musings on Medium](https://medium.com/@jsh.vrn)**
 
 </div>
 
